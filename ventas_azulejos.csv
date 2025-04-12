@@ -1,0 +1,13 @@
+Ciudad,Sucursal,Fecha,Producto,Cantidad,PrecioUnitario,Total
+Guadalajara,Almacén A,2023-01-01,Cerámico,100,5.5,550.0
+Monterrey,Almacén B,2023-01-01,Porcelanato,80,7.2,576.0
+CDMX,Almacén C,2023-01-01,Rústico,90,6.0,540.0
+Guadalajara,Almacén A,2023-02-01,Cerámico,150,5.5,825.0
+Monterrey,Almacén B,2023-02-01,Porcelanato,120,7.2,864.0
+CDMX,Almacén C,2023-02-01,Rústico,110,6.0,660.0
+Guadalajara,Almacén A,2023-03-01,Porcelanato,130,7.2,936.0
+Monterrey,Almacén B,2023-03-01,Rústico,140,6.0,840.0
+CDMX,Almacén C,2023-03-01,Cerámico,160,5.5,880.0
+Guadalajara,Almacén A,2023-04-01,Rústico,170,6.0,1020.0
+Monterrey,Almacén B,2023-04-01,Cerámico,190,5.5,1045.0
+CDMX,Almacén C,2023-04-01,Porcelanato,180,7.2,1296.0
